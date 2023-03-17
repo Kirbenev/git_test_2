@@ -1,4 +1,4 @@
 def get_capital(text):
-    """Return text with capital letters"""
+    """ please add docstrings """
 
     return text.upper()
